@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Part 1/DifferentTypesOfInput/DifferentTypesOfInput.iml" filepath="$PROJECT_DIR$/Part 1/DifferentTypesOfInput/DifferentTypesOfInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Message/Message.iml" filepath="$PROJECT_DIR$/Part 1/Message/Message.iml" />
       <module fileurl="file://$PROJECT_DIR$/MoocFiJava.iml" filepath="$PROJECT_DIR$/MoocFiJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Sandbox/Sandbox.iml" filepath="$PROJECT_DIR$/Part 1/Sandbox/Sandbox.iml" />
