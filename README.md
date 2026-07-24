@@ -2,7 +2,7 @@
 My solutions to the programming exercise for Mooc.fi java course.
 This course is hosted by University of Helsinki. 
 
-My repo will not have all the early challenges on Programming I section done as I am using this to refresh on Java syntax. 
+My repo will not have all the early challenges on Programming I section done as I am using this to refresh on Java. 
 
 # Link
 About the Java course - https://java-programming.mooc.fi/
