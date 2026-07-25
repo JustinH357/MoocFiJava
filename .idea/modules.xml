@@ -5,7 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/Part 1/DifferentTypesOfInput/DifferentTypesOfInput.iml" filepath="$PROJECT_DIR$/Part 1/DifferentTypesOfInput/DifferentTypesOfInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Message/Message.iml" filepath="$PROJECT_DIR$/Part 1/Message/Message.iml" />
       <module fileurl="file://$PROJECT_DIR$/MoocFiJava.iml" filepath="$PROJECT_DIR$/MoocFiJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 2/OnlyPositives/OnlyPositives.iml" filepath="$PROJECT_DIR$/Part 2/OnlyPositives/OnlyPositives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Same/Same.iml" filepath="$PROJECT_DIR$/Part 1/Same/Same.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Sandbox/Sandbox.iml" filepath="$PROJECT_DIR$/Part 1/Sandbox/Sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 2/SumOfNumbers/SumOfNumbers.iml" filepath="$PROJECT_DIR$/Part 2/SumOfNumbers/SumOfNumbers.iml" />
     </modules>
   </component>
 </project>
