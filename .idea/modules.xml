@@ -6,9 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/Part 1/Message/Message.iml" filepath="$PROJECT_DIR$/Part 1/Message/Message.iml" />
       <module fileurl="file://$PROJECT_DIR$/MoocFiJava.iml" filepath="$PROJECT_DIR$/MoocFiJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 2/OnlyPositives/OnlyPositives.iml" filepath="$PROJECT_DIR$/Part 2/OnlyPositives/OnlyPositives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 2/ParameterToOne/ParameterToOne.iml" filepath="$PROJECT_DIR$/Part 2/ParameterToOne/ParameterToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 2/RepeatingBreakingRemembering/RepeatingBreakingRemembering.iml" filepath="$PROJECT_DIR$/Part 2/RepeatingBreakingRemembering/RepeatingBreakingRemembering.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Same/Same.iml" filepath="$PROJECT_DIR$/Part 1/Same/Same.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Sandbox/Sandbox.iml" filepath="$PROJECT_DIR$/Part 1/Sandbox/Sandbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 2/SumOfNumbers/SumOfNumbers.iml" filepath="$PROJECT_DIR$/Part 2/SumOfNumbers/SumOfNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 2/SumOfSequenceSequel/SumOfSequenceSequel.iml" filepath="$PROJECT_DIR$/Part 2/SumOfSequenceSequel/SumOfSequenceSequel.iml" />
     </modules>
   </component>
 </project>
