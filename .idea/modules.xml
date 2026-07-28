@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/Part 2/StarSign/StarSign.iml" filepath="$PROJECT_DIR$/Part 2/StarSign/StarSign.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 2/SumOfNumbers/SumOfNumbers.iml" filepath="$PROJECT_DIR$/Part 2/SumOfNumbers/SumOfNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 2/SumOfSequenceSequel/SumOfSequenceSequel.iml" filepath="$PROJECT_DIR$/Part 2/SumOfSequenceSequel/SumOfSequenceSequel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/TestCode/TestCode.iml" filepath="$PROJECT_DIR$/Test/TestCode/TestCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/ThirdElement/ThirdElement.iml" filepath="$PROJECT_DIR$/Part 3/ThirdElement/ThirdElement.iml" />
     </modules>
   </component>
 </project>
