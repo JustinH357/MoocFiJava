@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Part 3/AVClub/AVClub.iml" filepath="$PROJECT_DIR$/Part 3/AVClub/AVClub.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 2/AdvancedAstrology/AdvancedAstrology.iml" filepath="$PROJECT_DIR$/Part 2/AdvancedAstrology/AdvancedAstrology.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 3/AgeOfTheOldest/AgeOfTheOldest.iml" filepath="$PROJECT_DIR$/Part 3/AgeOfTheOldest/AgeOfTheOldest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 4/Agent/Agent.iml" filepath="$PROJECT_DIR$/Part 4/Agent/Agent.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 4/Debt/Debt.iml" filepath="$PROJECT_DIR$/Part 4/Debt/Debt.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 4/DecreasingCounter/DecreasingCounter.iml" filepath="$PROJECT_DIR$/Part 4/DecreasingCounter/DecreasingCounter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/DifferentTypesOfInput/DifferentTypesOfInput.iml" filepath="$PROJECT_DIR$/Part 1/DifferentTypesOfInput/DifferentTypesOfInput.iml" />
@@ -23,10 +24,12 @@
       <module fileurl="file://$PROJECT_DIR$/Part 3/Login/Login.iml" filepath="$PROJECT_DIR$/Part 3/Login/Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Message/Message.iml" filepath="$PROJECT_DIR$/Part 1/Message/Message.iml" />
       <module fileurl="file://$PROJECT_DIR$/MoocFiJava.iml" filepath="$PROJECT_DIR$/MoocFiJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 4/Multiplier/Multiplier.iml" filepath="$PROJECT_DIR$/Part 4/Multiplier/Multiplier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 3/OnTheList/OnTheList.iml" filepath="$PROJECT_DIR$/Part 3/OnTheList/OnTheList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 2/OnlyPositives/OnlyPositives.iml" filepath="$PROJECT_DIR$/Part 2/OnlyPositives/OnlyPositives.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 3/OnlyTheseNumbers/OnlyTheseNumbers.iml" filepath="$PROJECT_DIR$/Part 3/OnlyTheseNumbers/OnlyTheseNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 2/ParameterToOne/ParameterToOne.iml" filepath="$PROJECT_DIR$/Part 2/ParameterToOne/ParameterToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 4/PaymentCard/PaymentCard.iml" filepath="$PROJECT_DIR$/Part 4/PaymentCard/PaymentCard.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 3/PersonalDetails/PersonalDetails.iml" filepath="$PROJECT_DIR$/Part 3/PersonalDetails/PersonalDetails.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 3/PrintInRange/PrintInRange.iml" filepath="$PROJECT_DIR$/Part 3/PrintInRange/PrintInRange.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 4/Product/Product.iml" filepath="$PROJECT_DIR$/Part 4/Product/Product.iml" />
@@ -39,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/Part 3/SecondPlusThird/SecondPlusThird.iml" filepath="$PROJECT_DIR$/Part 3/SecondPlusThird/SecondPlusThird.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 4/Song/Song.iml" filepath="$PROJECT_DIR$/Part 4/Song/Song.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 2/StarSign/StarSign.iml" filepath="$PROJECT_DIR$/Part 2/StarSign/StarSign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 4/Statistics/Statistics.iml" filepath="$PROJECT_DIR$/Part 4/Statistics/Statistics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 3/SumOfAList/SumOfAList.iml" filepath="$PROJECT_DIR$/Part 3/SumOfAList/SumOfAList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 3/SumOfArray/SumOfArray.iml" filepath="$PROJECT_DIR$/Part 3/SumOfArray/SumOfArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 2/SumOfNumbers/SumOfNumbers.iml" filepath="$PROJECT_DIR$/Part 2/SumOfNumbers/SumOfNumbers.iml" />
